@@ -1,0 +1,43 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+$pink-300: #E685B5; // Define the $pink-300 color
+
+
+.text-pink-300 {
+  color: $pink-300;
+}
+
+.text-black {
+    color:black;
+}
+
+.text-bg-black{
+    background-color: black;
+    opacity: 0.5;
+}
+
+.sosmed img{
+    width: 24px;
+}
+
+.font-bold {
+    font-weight: 500;
+}
+
+.bg-pink {
+    background-color: $pink-300;
+}
+
+.img-tnail {
+    height: 352px; width: 250px;
+}
+
+.img-content {
+    height: 528px; width: px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
